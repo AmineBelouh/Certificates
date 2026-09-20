@@ -10,3 +10,5 @@
 - **Excel for Data Analytics** (4th July 2026) - [View Certificate](https://analystbuilder.com/achievements/verify/GUOEX59UIW?r=vi0DDucbiU0wFCYi3ZX2gIwLN)
 - **MySQL for Data Analytics** (10th July 2026) - [View Certificate](https://analystbuilder.com/achievements/verify/ITS7C27BYM?r=8vCi3LmZo3st3YnVPZ804399c)
 - **Advanced Excel for Automation** (24th July 2026) - [View Certificate](https://analystbuilder.com/achievements/verify/OMN5ARB4HN?r=5Dm6eoxM1vHbGvmb2UYtAy06c)
+---  
+- **SQL for Data Engineering** (20th September 2026) - [View Certificate](https://app.kajabi.com/certificates/5d2ccc00)
